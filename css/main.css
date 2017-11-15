@@ -1,0 +1,53 @@
+img {
+  max-width: 100%; }
+
+body {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  color: black;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap; }
+  body .container {
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px; }
+  body h1 {
+    color: #fff;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background: lightcoral;
+    margin-top: 0;
+    padding: 0.5em;
+    border-radius: 2px; }
+  body .exercice {
+    padding: 1em; }
+    body .exercice div {
+      margin-top: 2em; }
+    body .exercice a {
+      text-decoration: none;
+      background: lightcoral;
+      color: #fff;
+      padding: 8px 20px;
+      border-radius: 3px; }
+    body .exercice p {
+      text-align: justify;
+      width: 80%;
+      line-height: 1.8em; }

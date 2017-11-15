@@ -1,4 +1,5 @@
 // Comparaison de deux nombres
+/*
 
 // Question
 var comparNum1 = Number(prompt("Saisir un premier nombre"));
@@ -14,4 +15,5 @@ if (comparNum1 > comparNum2) {
     console.log(comparNum1 + " est plus petit que " + comparNum2);
 }
 
+*/
 
