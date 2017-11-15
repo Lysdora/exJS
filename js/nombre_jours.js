@@ -4,6 +4,7 @@ Ecrivez un programme nombre_jours.js qui fait saisir le numéro d'un mois (nombr
 
  */
 
+/*
 var nombreDeJourMois = Number(prompt("Entrez le numéros d'un mois"));
 
 switch (nombreDeJourMois) {
@@ -46,4 +47,4 @@ switch (nombreDeJourMois) {
     default :
         console.log("Je n'ai pas compris");
         break;
-}
+}*/
