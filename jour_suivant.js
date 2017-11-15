@@ -1,6 +1,6 @@
 // jour suivant
 
-var jour = prompt("Ecris un jour de la semaine sans majuscule");
+/*var jour = prompt("Ecris un jour de la semaine sans majuscule");
 
 if (jour.toUpperCase() === "LUNDI") {
     console.log("Demain, nous serons mardi.");
@@ -18,7 +18,7 @@ if (jour.toUpperCase() === "LUNDI") {
     console.log("Demain, nous serons lundi.");
 }else {
     console.log("Je n'ai pas compris, recommence.");
-}
+}*/
 
 
 /*
