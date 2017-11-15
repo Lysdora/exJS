@@ -37,6 +37,39 @@ body {
     margin-top: 0;
     padding: 0.5em;
     border-radius: 2px; }
+  body header p a {
+    text-decoration: none;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    color: lightcoral;
+    font-size: 2em; }
+  body header nav {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center; }
+    body header nav a {
+      padding: 0.5em;
+      text-decoration: none;
+      color: lightseagreen;
+      font-size: 1.2em; }
+      body header nav a:hover {
+        text-decoration: underline; }
   body .exercice {
     padding: 1em; }
     body .exercice div {
